@@ -1,4 +1,4 @@
-{application, beanstalk, [
+{application, erlang_beanstalkd, [
     {description, "Erlang Beanstalk Client"},
     {vsn, "0.1.0"},
     {modules, []},
